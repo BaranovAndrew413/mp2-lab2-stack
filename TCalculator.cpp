@@ -1,5 +1,5 @@
 #include "TCalculator.h"
-#include "TStack.h"
+#include "TStack on list.h"
 #include <string>
 #include <math.h>
 

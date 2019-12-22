@@ -1,7 +1,7 @@
 
 #pragma once
 #include <string>
-#include "TStack.h"
+#include "TStack on list.h"
 
 using namespace std;
 
